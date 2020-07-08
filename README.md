@@ -1,3 +1,7 @@
+![Image of Dataframe](https://github.com/mgipson/Climate-Data-Analysis/blob/master/DataFrame.png) 
+
+![Image of Graph](https://github.com/mgipson/Climate-Data-Analysis/blob/master/Graph.png)
+
 # Climate Data Analysis Pt. 1
 Leveraged multi-core processing on a Raspberry Pi Cluster to process large datasets with Apache Spark and PySpark. Developed Python programs to convert file types, compress data for easier processing, and compute on the datasets to extract valuable statistics.
 
